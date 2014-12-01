@@ -15,7 +15,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\Debug\helloworld.lua">
+    <None Include="helloworld.lua">
       <Filter>lua</Filter>
     </None>
   </ItemGroup>
